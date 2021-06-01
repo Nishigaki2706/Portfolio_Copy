@@ -1,3 +1,58 @@
-.hello{
-    color: blue;
+.name{
+    top: 124px;
+    left: 169px;
+    width: 708px;
+    height: 446px;
+    text-align: left;
+    font: normal normal 900 200px/180px Avenir;
+    letter-spacing: 14.2px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.namejp{
+    top: 550px;
+    left: 183px;
+    width: 236px;
+    height: 67px;
+    text-align: left;
+    font: normal normal normal 50px/180px Avenir;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.job{
+    top: 635px;
+    left: 183px;
+    width: 724px;
+    height: 67px;
+    text-align: left;
+    font: normal normal normal 50px/180px Avenir;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.woman img{
+    top: 95px;
+    left: 738px;
+    width: 975px;
+    height: 975px;
+    opacity: 1;
+}
+.iconleft img{
+    top: 20px;
+    left: 19px;
+    width: 62px;
+    height: 59px;
+    text-align: left;
+}
+
+.iconright img {
+    top: 19px;
+    left: 1827px;
+    width: 84px;
+    height: 61px;
+    text-align: right;
 }
