@@ -1,6 +1,11 @@
+.container{
+    width: auto;
+}
+
+
 .name{
-    top: 124px;
-    left: 169px;
+    padding-top: 124px;
+    padding-left: 169px;
     width: 708px;
     height: 446px;
     text-align: left;
@@ -11,8 +16,8 @@
 }
 
 .namejp{
-    top: 550px;
-    left: 183px;
+    padding-top: 550px;
+    padding-left: 350px;
     width: 236px;
     height: 67px;
     text-align: left;
@@ -23,8 +28,8 @@
 }
 
 .job{
-    top: 635px;
-    left: 183px;
+    padding-top: 635px;
+    padding-left: 183px;
     width: 724px;
     height: 67px;
     text-align: left;
@@ -35,23 +40,23 @@
 }
 
 .woman img{
-    top: 95px;
-    left: 738px;
-    width: 975px;
-    height: 975px;
+    padding-top: 95px;
+    padding-left: 738px;
+    width: 500px;
+    height: 500px;
     opacity: 1;
 }
 .iconleft img{
-    top: 20px;
-    left: 19px;
+    padding-top: 20px;
+    padding-left: 19px;
     width: 62px;
     height: 59px;
     text-align: left;
 }
 
 .iconright img {
-    top: 19px;
-    left: 1827px;
+    padding-top: 19px;
+    padding-left: 1827px;
     width: 84px;
     height: 61px;
     text-align: right;
