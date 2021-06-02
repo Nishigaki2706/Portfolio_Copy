@@ -9,31 +9,31 @@
     width: 708px;
     height: 446px;
     text-align: left;
-    font: normal normal 900 200px/180px Avenir;
+    font: normal normal 100 161px/163px Avenir;
     letter-spacing: 14.2px;
     color: #FFFFFF;
     opacity: 1;
 }
 
 .namejp{
-    padding-top: 550px;
-    padding-left: 350px;
-    width: 236px;
-    height: 67px;
+    padding-top: 20px;
+    padding-left: 170px;
+    width: 265px;
+    height: 107px;
     text-align: left;
-    font: normal normal normal 50px/180px Avenir;
+    font: normal normal normal 48px/5px Avenir;
     letter-spacing: 5px;
     color: #FFFFFF;
     opacity: 1;
 }
 
 .job{
-    padding-top: 635px;
-    padding-left: 183px;
-    width: 724px;
+    padding-top: 5px;
+    padding-left: 150px;
+    width: 696px;
     height: 67px;
     text-align: left;
-    font: normal normal normal 50px/180px Avenir;
+    font: normal normal normal 43px/18px Avenir;
     letter-spacing: 5px;
     color: #FFFFFF;
     opacity: 1;
