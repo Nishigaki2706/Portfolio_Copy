@@ -1,37 +1,46 @@
 .container{
+    display: flex;
     width: auto;
 }
 
+body{
+    display: flex;
+    margin: 0px;
+}
 
 .name{
-    padding-top: 124px;
+    padding-top: 120px;
     padding-left: 169px;
-    width: 708px;
-    height: 446px;
+    width: 500px;
+    height: 202px;
+    margin: 0px;
     text-align: left;
-    font: normal normal 100 161px/163px Avenir;
+    font: normal normal 100 120px/120px Avenir;
     letter-spacing: 14.2px;
     color: #FFFFFF;
     opacity: 1;
 }
 
 .namejp{
-    padding-top: 20px;
-    padding-left: 170px;
-    width: 265px;
-    height: 107px;
+    padding-top: 50px;
+    padding-left: 169px;
+    width: 1000px;
+    height: 72px;
+    margin-top: 30px;
+    margin-bottom: 0px;
     text-align: left;
-    font: normal normal normal 48px/5px Avenir;
+    font: normal normal normal 43px/5px Avenir;
     letter-spacing: 5px;
     color: #FFFFFF;
     opacity: 1;
 }
 
 .job{
-    padding-top: 5px;
-    padding-left: 150px;
+    padding-top: 0px;
+    padding-left: 169px;
     width: 696px;
     height: 67px;
+    margin: 0px;
     text-align: left;
     font: normal normal normal 43px/18px Avenir;
     letter-spacing: 5px;
@@ -40,13 +49,19 @@
 }
 
 .woman img{
+    position: absolute;
+    top: 3px;
     padding-top: 95px;
-    padding-left: 738px;
-    width: 500px;
-    height: 500px;
+    padding-left: 300px;
+    width: 650px;
+    height: 600px;
+    margin-left: 600px;
     opacity: 1;
 }
 .iconleft img{
+    position: absolute;
+    top: 0;
+    left: 0;
     padding-top: 20px;
     padding-left: 19px;
     width: 62px;
@@ -55,6 +70,9 @@
 }
 
 .iconright img {
+    position: absolute;
+    top: 0;
+    right: 1;
     padding-top: 19px;
     padding-left: 1827px;
     width: 84px;
