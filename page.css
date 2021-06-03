@@ -11,8 +11,8 @@ body{
 .name{
     padding-top: 120px;
     padding-left: 169px;
-    width: 500px;
-    height: 202px;
+    width: 20%;
+    height: 20%;
     margin: 0px;
     text-align: left;
     font: normal normal 100 120px/120px Avenir;
@@ -24,8 +24,8 @@ body{
 .namejp{
     padding-top: 50px;
     padding-left: 169px;
-    width: 1000px;
-    height: 72px;
+    width: 100%;
+    height: 100%;
     margin-top: 30px;
     margin-bottom: 0px;
     text-align: left;
@@ -38,8 +38,8 @@ body{
 .job{
     padding-top: 0px;
     padding-left: 169px;
-    width: 696px;
-    height: 67px;
+    width: 100%;
+    height: 100%;
     margin: 0px;
     text-align: left;
     font: normal normal normal 43px/18px Avenir;
@@ -53,8 +53,8 @@ body{
     top: 3px;
     padding-top: 95px;
     padding-left: 300px;
-    width: 650px;
-    height: 600px;
+    width: 40%;
+    height: 40%;
     margin-left: 600px;
     opacity: 1;
 }
@@ -64,8 +64,8 @@ body{
     left: 0;
     padding-top: 20px;
     padding-left: 19px;
-    width: 62px;
-    height: 59px;
+    width: 10%;
+    height: 10%;
     text-align: left;
 }
 
@@ -75,7 +75,7 @@ body{
     right: 1;
     padding-top: 19px;
     padding-left: 1827px;
-    width: 84px;
-    height: 61px;
+    width: 20%;
+    height: 20%;
     text-align: right;
 }
