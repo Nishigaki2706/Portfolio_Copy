@@ -5,7 +5,7 @@
 body{
     margin: 0px;
 }
-
+/* fristgroup */
 .name{
     padding-top: 110px;
     padding-left: 169px;
@@ -72,4 +72,32 @@ body{
     padding-left: 20px;
     width: 6%;
     height: 13%;
+}
+/* secondgroup */
+
+.secondg .about{
+    width: 30%;
+    height: 30%;
+    padding-top: 50px;
+    padding-left: 80px;
+    font-family: -webkit-pictograph;
+}
+
+.skill{
+
+}
+
+.profile{
+
+}
+
+.support{
+
+}
+.icon{
+
+}
+
+.pcicon{
+
 }
