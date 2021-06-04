@@ -48,7 +48,7 @@ body{
     position: absolute;
     top: -213px;
     padding-top: 225px;
-    padding-left: 300px;
+    padding-left: 372px;
     width: 35%;
     height: 88%;
     margin-left: 417px;
@@ -84,20 +84,125 @@ body{
 }
 
 .skill{
-
+    list-style: none;
+    padding-left: 80px;
+    margin-bottom: 13px;
+    font: normal normal normal 24px/34px normal;
 }
 
 .profile{
-
+    padding-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .support{
+    padding-top: 16px;
+    padding-left: 79px;
+    width: 145px;
+    margin: 0px;
 
 }
-.icon{
+.icon .giticon img{
+    width: 3%;
+    padding-left: 73px;
+    padding-top: 12px;
+    padding-bottom: 30px;
+}
+
+.icon .inicon img{
+    width: 3%;
+    padding-left: 134px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 145%;
 
 }
 
-.pcicon{
+.pcicon img{
+     width: 60%;
+     height: 75%;
+     position: absolute;
+     top: 90%;
+     left: 40%;
+}
 
+/* trirdgroup */
+
+.thirdg h1{
+     color: white;
+     font-family: fangsong;
+     padding-top: 60px;
+     padding-left: 74px;
+     padding-bottom: 20px;
+}
+
+/* .tc img{ 
+     width: 47%;
+     padding-left: 74px;
+}*/
+
+.character{
+    position: absolute;
+    padding-left: 57%;
+    color: white;
+    padding-top: 3%;
+}
+
+p{
+    font-family: auto;
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+
+.descripution2{
+    padding-bottom: 37px;
+    font: normal normal 300 16px/32px Avenir;
+}
+
+.test{
+    font-size: 30px;
+    font-weight: normal;
+    padding-bottom: 9px;
+    font: normal normal 300 35px/34px Avenir;
+}
+
+.email{
+    font: normal normal 300 16px/50px Avenir;
+}
+
+.pass{
+    font: normal normal 300 16px/31px Avenir;
+    padding-bottom: 19px;
+}
+.button{
+    display: flex;
+}
+
+.button .web{
+    margin-right: 23px;
+border: solid 1px white;
+background-color: white;
+color: gray;
+padding: 5px 13px;
+}
+
+.button .git{
+    border: solid 1px white;
+
+    background-color: white;
+    
+    color: gray;
+    
+    padding: 5px 13px;
+}
+
+.tc{
+
+}
+.tc img{
+    width: 47%;
+    padding-left: 74px;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
