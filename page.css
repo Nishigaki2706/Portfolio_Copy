@@ -206,3 +206,97 @@ padding: 5px 13px;
     margin-bottom: 0;
     padding-bottom: 0;
 }
+
+/* forthgroup */
+
+.netflix img{
+
+}
+
+.character2{
+
+}
+
+.nameclone{
+
+}
+
+.descripution3{
+
+}
+
+.test2{
+
+}
+
+.email2{
+
+}
+
+.pass2{
+
+}
+
+.btn .web{
+
+}
+
+.btn .git2{
+
+}
+
+/* footer */
+
+.contacts{
+    color: white;
+    padding-top: 74px;
+    padding-left: 53px;
+    font-size: 26px;
+}
+.icon2{
+    padding-top: 20px;
+    padding-left: 42px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icon2 .phone{
+
+}
+
+.icon2 .phone img{
+    float: left;
+    padding-right: 21px;
+    padding-bottom: 11px;
+    width: 32px;
+    height: 32px;
+    margin-left: 5px;
+}
+
+.icon2 .phone .number{
+
+}
+
+.icon2 .mail{
+    padding-bottom: 20px;
+}
+
+.icon2 .mail img{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 7px;
+}
+
+.icon2 .mail .address{
+
+}
+
+.last{
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    color: white;  
+    font-size: 12px;
+}
