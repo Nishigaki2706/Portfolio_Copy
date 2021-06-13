@@ -6,8 +6,15 @@ body{
     margin: 0px;
 }
 /* fristgroup */
+
+.firstg{
+    height: 841px;
+}
+.descripution00{
+    /* width: 443%; */
+}
 .name{
-    padding-top: 110px;
+    padding-top: 170px;
     padding-left: 169px;
     width: 10%;
     height: 10%;
@@ -49,7 +56,7 @@ body{
     top: -213px;
     padding-top: 225px;
     padding-left: 372px;
-    width: 35%;
+    width: 41%;
     height: 88%;
     margin-left: 417px;
     opacity: 1;
@@ -58,20 +65,24 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    padding-top: 20px;
-    padding-left: 19px;
-    width: 6%;
-    height: 13%;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 4%;
+    height: 7%;
+    border: solid 2px white;
+    background-color: white;
 }
 
 .iconright img {
     position: absolute;
     top: 0;
     right: 0;
-    padding-top: 20px;
-    padding-left: 20px;
-    width: 6%;
-    height: 13%;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 4%;
+    height: 8%;
+    border: solid 2px white;
+    background-color: white;
 }
 /* secondgroup */
 
@@ -188,11 +199,11 @@ padding: 5px 13px;
 }
 
 .button .git{
-    border: solid 1px white;
+    border: solid 2px white;
 
-    background-color: white;
+    background-color: gray;
     
-    color: gray;
+    color: white;
     
     padding: 5px 13px;
 }
@@ -210,39 +221,57 @@ padding: 5px 13px;
 /* forthgroup */
 
 .netflix img{
-
+    width: 47%;
+    padding-left: 74px;
+    float: left;
+    padding-right: 78px;
 }
 
 .character2{
-
+    padding-bottom: 511px;
+    padding-top: 90px;
 }
 
 .nameclone{
-
+    font-size: 30px;
+    padding-bottom: 12px;
 }
 
-.descripution3{
+.description3{
 
 }
 
 .test2{
-
+    font-size: 27px;
+    padding-top: 27px;
+    padding-bottom: 6px;
 }
 
 .email2{
-
+    font-size: 17px;
+    padding-bottom: 16px;
 }
 
 .pass2{
-
+    font-size: 17px;
+    padding-bottom: 51px;
 }
 
-.btn .web{
-
+.btn{
+    display: flex;
+}
+.btn .web2{
+    border: solid 1px black;
+    padding: 5px 13px;
+    float: left;
+    margin-right: 31px;
 }
 
 .btn .git2{
-
+    border: solid 1px black;
+    background-color: black;
+    color: white;
+    padding: 5px 13px;
 }
 
 /* footer */
